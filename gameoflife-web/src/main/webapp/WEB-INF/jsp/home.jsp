@@ -61,12 +61,12 @@
     </style>
 </head>
 <body>
-<h2>Welcome to Conway's Game Of Life!</h2>
+<h2>Welcome to VODAFONE UK</h2>
 
 <div class="intro">
-    <p>This is a really cool web version of Conway's famous Game Of
-        Life. The Game of Life is a cellular automaton devised by the British
-        mathematician John Horton Conway way back in 1970.</p>
+    <p>Vodafone Group plc is a multinational telecommunications company.
+Its registered office is located in Newbury, Berkshire, England and its global headquarters is based in London, England.
+It predominantly operates services in the regions of Asia, Africa, Europe, and Oceania CEO:NICK READ.</p>
 
     <p>The universe of the Game of Life is an infinite two-dimensional
         orthogonal grid of square cells, each of which is in one of two possible
