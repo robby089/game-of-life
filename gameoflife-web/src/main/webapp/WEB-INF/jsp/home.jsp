@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to Janaki Ram _Vois UK</h2>
+<h2>Welcome to NAGA _Vois UK</h2>
 
 <div class="intro">
     <p>Vodafone Group plc is a multinational telecommunications company.
